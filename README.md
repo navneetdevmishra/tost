@@ -4,7 +4,7 @@
 A toaster animation pure CSS.
 
 ## Live link
-https://thuotracy.github.io/toaster-animation/
+https://github.com/navneetdevmishra/tost
 
 ## Technologies Used
 * HTML
